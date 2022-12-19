@@ -11,7 +11,7 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	background: #FFF;
+	background: rgb(20, 110, 117);
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -40,7 +40,7 @@ body {
 	position: fixed;
 	top: 0px;
 	z-index: 10;
-	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+	box-shadow: 1px 1px 10px rgba(11, 135, 189, 0.5);
 }
 
 .nav li, a, button
@@ -49,7 +49,7 @@ body {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 500;
 	font-size: 13px;
-	color: #2E3D49;
+	color: #540234;
 	display: block;
 	text-decoration: none;
 	text-align: center;
@@ -141,13 +141,13 @@ body {
 	font-weight: 700;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 60px;
-	color: #2E3D49;
+	color: #8b1960;
 }
 .title .shortdesc {
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
-	color: #2E3D49;
+	color: #f1f1f1;
 	margin-bottom: 50px;
 }
 
@@ -176,7 +176,7 @@ body {
 	border-radius: 50px;
 	border: 1px solid #FA4B37;
 	font-size: 15px;
-	color: #272529;
+	color: #a4041f;
 	font-family: cursive;
 	text-decoration: none;
 }
@@ -190,7 +190,7 @@ body {
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
-	color: #2E3D49;
+	color: #05531a;
 	margin: 100px;
 	margin-bottom: 50px;
 }
@@ -258,13 +258,13 @@ body {
 	font-weight: 700;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
-	color: #2E3D49;
+	color: #c7000d;
 }
 .title2 .shortdesc2 {
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
-	color: #2E3D49;
+	color: #da140a;
 	margin-bottom: 10px;
 }
 
@@ -289,7 +289,7 @@ body {
 	width: inherit;
 	height: 180px;
 	background: #000;
-	color: #000;
+	color: rgb(188, 0, 0);
 	text-align: left;
 	border-top-right-radius: 100px;
 	transform: translateY(-19px);
@@ -360,7 +360,7 @@ body {
 	padding: 10px;
 }
 .project-card .info h4 {
-	color: #2E3D49;
+	color: #103e07;
 }
 .project-card .info p {
 	font-size: 12px;
@@ -413,7 +413,7 @@ body {
 
 footer {
 	color: #E5E8EF;
-	background: #000D;
+	background: rgba(144, 17, 17, 0.867);
 	padding: 50px 0; 
 }
 
@@ -470,7 +470,7 @@ footer .txtb {
 	flex: 1;
 	padding: 18px 40px;
 	font-size: 16px;
-	background: #343A40;
+	background: #175fa8;
 	border: none;
 	font-weight: 700;
 	outline: none;
